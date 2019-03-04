@@ -1,0 +1,232 @@
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\WSMBT.xml
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\System.Data.SQLite.dll
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+F:\VcProj\InsituSystem\InsituSystem\bin\Debug\WSMBS.xml
+F:\VcProj\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\bin\Debug\WSMBS.xml
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\bin\Debug\WSMBT.xml
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+E:\d\VisualStudio2010\Common7\InsituSystem\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\bin\Debug\WSMBS.xml
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\bin\Debug\WSMBT.xml
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem(VS2010)\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\WSMBS.xml
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\WSMBT.xml
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\WSMBT.xml
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (6)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\SIDSSE-zjr\Desktop\新建文件夹 (8)\InsituSystem（采矿车）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\新建文件夹\InsituSystem（采矿车20190128）\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem20190225\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem20190226\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem20190301\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem20190301-1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Pro.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\Iocomp.Instrumentation.WF40.Std.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\System.Data.SQLite.pdb
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\SIDSSE-zjr\Desktop\InsituSystem20190302_2\InsituSystem\InsituSystem\bin\Debug\Iocomp.WF40.OPC.dll
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+I:\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
+C:\Users\sidsse-zjr\Desktop\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\sidsse-zjr\Desktop\深海采样机程序\上位机\InsituSystem20190303\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\bin\Debug\Log4Net.config
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\bin\Debug\InsituSystem.exe
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\bin\Debug\InsituSystem.pdb
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csprojResolveAssemblyReference.cache
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.frMain.resources
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.Properties.Resources.resources
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.csproj.GenerateResource.Cache
+C:\Users\董东磊\Desktop\InsituSystem20190303_1\InsituSystem20190303_1\InsituSystem\InsituSystem\obj\x86\Debug\InsituSystem.exe.licenses
